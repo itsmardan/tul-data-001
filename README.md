@@ -1,7 +1,12 @@
-Below is a well-structured README.md file tailored for students. It explains the project, how to set it up, what the /data/ folder is for, and the Python requirements in a simple and friendly way. I’ve used Markdown formatting to make it look nice on platforms like GitHub.
+# Read ME 
 
 # Clone it
 https://github.com/itsmardan/tul-data-001.git 
+
+Further Readings
+1. https://wajidkhan.info/dictionary/what-is-linear-regression-in-data-science/
+2. https://wajidkhan.info/dictionary/what-is-logistic-regression-in-data-science/
+3. https://wajidkhan.info/dictionary/what-is-inter-annotator-agreement/
 
 # Business Data Analysis Project
 
