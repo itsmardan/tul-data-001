@@ -20,7 +20,7 @@ Welcome, students! This is a Python project that helps you analyze business data
 Think of it like a detective tool: it takes a messy spreadsheet, organizes it, and finds the big clues for you.
 
 ## What’s Inside?
-analyze_data.py: The main Python file that does all the work (reading, cleaning, analyzing, and charting).
+some.py: The main Python file that does all the work (reading, cleaning, analyzing, and charting).
 /data/: A folder where you put your Excel files (like sheet1.xls). This is where the program looks for the data to analyze.
 
 ## What You’ll Need
@@ -50,10 +50,10 @@ pip install xlrd
 ## How to Set It Up
 Follow these steps to get started:
 Get the Files
-Download or clone this project to your computer. You’ll see analyze_data.py and a /data/ folder.
+Download or clone this project to your computer. You’ll see some.py and a /data/ folder.
 Add Your Data
 Put your Excel file (e.g., sheet1.xls) in the /data/ folder.
-The default file path in the code is C:\TUL\week4-python-p1\data\sheet1.xls. If your file is somewhere else, update the file_path at the bottom of analyze_data.py to match.
+The default file path in the code is C:\TUL\week4-python-p1\data\sheet1.xls. If your file is somewhere else, update the file_path at the bottom of some.py to match.
 Run the Program
 Open your terminal/command prompt.
 Go to the project folder by typing something like:
@@ -85,7 +85,7 @@ File not found?: Double-check your file_path matches where your Excel file is.
 
 ##  Fun Things to Try
 Change the file path to use a different Excel file.
-Print more stuff: Add print(df) after each step in analyze_data.py to see the table change.
+Print more stuff: Add print(df) after each step in some.py to see the table change.
 Make a pie chart: In the analyze_data function, change plot(kind='bar') to plot(kind='pie').
 
 
